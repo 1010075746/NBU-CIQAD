@@ -9,4 +9,4 @@ The code is coming.
 # References
 If our datasets and criteria are helpful, please consider citing the following papers.
 
-[1]
+[1] H. Chen et al., "Perceptual Quality Assessment of Cartoon Images," in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2021.3121875.
