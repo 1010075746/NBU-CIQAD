@@ -3,13 +3,13 @@ NBU-CIQAD
 NBU-CIQAD includes 100 reference images, 1800 SCCIs degraded only by one distortion on six degradation levels, and 800 MCCIs de-graded by two or three types of distortion on four degradation levels. 
 # Table of content
 1. 📎[Paper Link](#paper-link)
-2. 💡[Abstract](#abstract)
-3. 📃[Requirement](#requirement)
+2. 💡[Abstract](#Abstract)
+3. 📃[Requirement](#Requirement)
 4. 👇[Download](#Download)
-5. 🍎[Noting](#noting)
-6. ✨[Statement](#statement)
-7. 🔍[Citation](#citation)
-# 📎 Paper Link
+5. 🍎[Noting](#Noting)
+6. ✨[Statement](#Statement)
+7. 🔍[Citation](#Citation)
+# 📎 Paper-Link
 - Article title: "Perceptual quality assessment of cartoon images" ([link](https://ieeexplore.ieee.org/document/9585540))
 - Authors: Hangwei chen, Xiongli chai, Feng Shao, Xuejin Wang, Qiuping Jinag, Xiangchao Meng, Yo-Sung Ho
 - Institution: The School of Information Science and Engineering, Ningbo University
