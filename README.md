@@ -10,7 +10,7 @@ NBU-CIQAD includes 100 reference images, 1800 SCCIs degraded only by one distort
 6. ✨[Statement](#statement)
 7. 🔍[Citation](#citation)
 # Paper Link
--Article title: "Perceptual quality assessment of cartoon images" ([link](https://ieeexplore.ieee.org/document/9585540))
+- Article title: "Perceptual quality assessment of cartoon images" ([link](https://ieeexplore.ieee.org/document/9585540))
 - Authors: Hangwei chen, Xiongli chai, Feng Shao, Xuejin Wang, Qiuping Jinag, Xiangchao Meng, Yo-Sung Ho
 - Institution: The School of Information Science and Engineering, Ningbo University
 # Abstract
