@@ -1,6 +1,14 @@
 # NBU-CIQAD for cartoon image quality assessment
 NBU-CIQAD
 NBU-CIQAD includes 100 reference images, 1800 SCCIs degraded only by one distortion on six degradation levels, and 800 MCCIs de-graded by two or three types of distortion on four degradation levels. 
+# Table of content
+1. 📎[Paper Link](#paper-link)
+2. 💡[Abstract](#abstract)
+3. 📃[Requirement](#requirement)
+4. 📖[Usage](#usage)
+5. 🍎[Noting](#noting)
+6. ✨[Statement](#statement)
+7. 🔍[Citation](#citation)
 # Download
 You can download NBU-CIQAD on [Baidu Cloud](https://pan.baidu.com/s/1CO1i1rdzmpHXQY2gf04Rhw) drive. [password]: 3r6i
 
