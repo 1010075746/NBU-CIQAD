@@ -17,7 +17,7 @@ In the animation industry, automatically predicting the quality of cartoon image
 ## 📃 Requirement
 ## 👇 Download
 - You can download NBU-CIQAD on [Baidu Cloud](https://pan.baidu.com/s/1CO1i1rdzmpHXQY2gf04Rhw) drive. [password]: 3r6i
-- The proposed method is coming.
+- You can download the proposed method [Baidu Cloud](https://pan.baidu.com/s/1tLsKhT-HwWGMMBZgLfKyXg) drive. [password]: ao7x
 ## 🍎 Noting
 ## ✨ Statement
 
