@@ -19,7 +19,7 @@ In the animation industry, automatically predicting the quality of cartoon image
 matlab
 ## 👇 Download
 You can download NBU-CIQAD on [Baidu Cloud](https://pan.baidu.com/s/1CO1i1rdzmpHXQY2gf04Rhw) drive. [password]: 3r6i
-You can download the proposed method on.
+The proposed method is coming.
 ## 🍎 Noting
 ## ✨ Statement
 
