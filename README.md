@@ -18,7 +18,7 @@ In the animation industry, automatically predicting the quality of cartoon image
 Matlab
 ## 👇 Download
 - You can download NBU-CIQAD on [Baidu Cloud](https://pan.baidu.com/s/1CO1i1rdzmpHXQY2gf04Rhw) drive. [password]: 3r6i
-- You can download the proposed method [Baidu Cloud](https://pan.baidu.com/s/1tLsKhT-HwWGMMBZgLfKyXg) drive. [password]: ao7x
+- You can download the proposed method on [Baidu Cloud](https://pan.baidu.com/s/1tLsKhT-HwWGMMBZgLfKyXg) drive. [password]: ao7x
 ## 🍎 Noting 
 - Usage :
    You can run 'demo.m' to get the feature vector and the predict score. 
