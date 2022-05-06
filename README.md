@@ -20,14 +20,14 @@ Matlab
 - You can download NBU-CIQAD on [Baidu Cloud](https://pan.baidu.com/s/1CO1i1rdzmpHXQY2gf04Rhw) drive. [password]: 3r6i
 - You can download the proposed method on [Baidu Cloud](https://pan.baidu.com/s/1tLsKhT-HwWGMMBZgLfKyXg) drive. [password]: ao7x
 ## 🍎 Noting 
-- **Usage** :
+- #**Usage** :
    You can run 'demo.m' to get the feature vector and the predict score. 
    > Input: 
         img: test image
-   > Output: 
+     Output: 
         features: the feature vector
         score: the quality of the test image
-- **Train** :
+- #**Train** :
   We provide the folder ( i.e., Train).
   Run All_SVR.m / SCCIs_SVR.m / MCCIs_SVR.m to predict the quality scores and calculate the correlation 
   between subjective and objective scores.
