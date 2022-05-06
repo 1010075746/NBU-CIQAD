@@ -22,9 +22,9 @@ Matlab
 ## 🍎 Noting 
 - **Usage** :
    You can run 'demo.m' to get the feature vector and the predict score. 
-   Input: 
+   > Input: 
         img: test image
-   Output: 
+   > Output: 
         features: the feature vector
         score: the quality of the test image
 - **Train** :
