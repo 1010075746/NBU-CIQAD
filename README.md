@@ -26,7 +26,7 @@ Matlab
         img: test image  
    > **Output**:   
         features: the feature vector  
-        score: the quality of the test image
+        score: the quality of the test image (Higher score means better image quality)
 - **Train** :  
   We provide the folder ( i.e., Train).
   Run All_SVR.m / SCCIs_SVR.m / MCCIs_SVR.m to predict the quality scores and calculate the correlation 
