@@ -11,7 +11,7 @@ IEEE TRANSACTIONS ON MULTIMEDIA, Accept, 2021.
         img: test image
    Output: 
         features: the feature vector
-        score: the quality of the test image
+        score: the quality of the test image (Higher score means better image quality)
 
 3. Train: 
     
